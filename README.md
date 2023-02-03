@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'am Lucas Cucci a passionate frontend developer from Argentina, Buenos Aires</h3>
+<h3 align="center">Hi 🌱, I'am Lucas Cucci a passionate frontend developer from Argentina, Buenos Aires</h3>
 
 - 🌱 I’m currently learning **QA Testing and redux**
 
