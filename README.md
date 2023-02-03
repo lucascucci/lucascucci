@@ -4,8 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucascucci](https://github.com/lucascucci)
 
-- 💬 Ask me about **react, JS**
-
 - 📫 How to reach me **lucascucci@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
