@@ -1,6 +1,6 @@
 <h3 align="center">Hi 🌱, I'am Lucas Cucci a passionate frontend developer from Argentina, Buenos Aires</h3>
 
-- 🌱 I’m currently learning **Vite and redux**
+- 🌱 I’m currently learning **Redux & Redux Persist / CRUD**
 
 - 👨‍💻 All of my projects & practices are available at [https://github.com/lucascucci](https://github.com/lucascucci)
 
