@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Redux & Redux Persist / CRUD**
 
-- 👨‍💻 All of my projects & practices are available at [https://github.com/lucascucci](https://github.com/lucascucci)
+- 👨‍💻 All of my future projects & practices are available at [https://github.com/lucascucci](https://github.com/lucascucci)
 
 - 📫 How to reach me **lucascucci@gmail.com**
 
